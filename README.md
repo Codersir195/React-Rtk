@@ -7,3 +7,10 @@ Cart Page
 
 Order Place 
 <img width="1919" height="1030" alt="Screenshot 2026-03-31 004421" src="https://github.com/user-attachments/assets/ba390a4a-4e70-4877-b529-8688b021dc70" />
+
+
+Project Run Command
+
+cd react-rtk
+npm install
+npm run dev
